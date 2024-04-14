@@ -1,0 +1,9 @@
+#js gitignore
+node_modules
+dist
+coverage
+.env
+
+#python gitignore
+__pycache__/
+*.
